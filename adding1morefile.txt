@@ -1,3 +1,6 @@
 sample file
 
-adding this sample line from git hub and then i will try to perform commit from github Desktop 
+adding this sample line from git hub and then i will try to perform commit from github Desktop
+
+again adding line from local and then this will reflect in github desktop
+
